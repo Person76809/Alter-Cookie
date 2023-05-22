@@ -1,2 +1,2 @@
 # Alter-Cookie
-alters cookies on websites when clicked as a bookmarklet.
+a JavaScript code snippet that alters cookies on a specific website when clicked as a bookmarklet.
